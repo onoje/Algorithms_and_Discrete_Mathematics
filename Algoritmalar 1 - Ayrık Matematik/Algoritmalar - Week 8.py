@@ -1,5 +1,5 @@
 class Dynamic_Array:
-  def _init_(self):
+  def __init__(self):
     self.array = []
     self.array_size = 0
   
